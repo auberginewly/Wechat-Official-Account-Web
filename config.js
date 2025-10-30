@@ -1,6 +1,6 @@
-const oa_name = "张洪Heo";
-const oa_description = "分享设计与科技生活";
-const web_beian = "京ICP备19051325号-2";
+const oa_name = "yearn1ng";
+const oa_description = "山山而川 人生海海 不过尔尔";
+const web_beian = "赣ICP备2025066072号-2";
 
 function replaceText(elementId, newText) {
   var element = document.getElementById(elementId);
